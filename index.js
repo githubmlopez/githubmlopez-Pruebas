@@ -34,4 +34,6 @@ var cadena = "https://net.tutsplus!com/about";
 var result = /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/.test(cadena);
 console.log(result); // true
 
+//Linea de prueba 
+
 
